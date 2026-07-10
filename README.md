@@ -175,7 +175,6 @@ npm run dev
 
 Pratiksha Nithave
 
-Bachelor of Engineering (Computer Engineering)
 
 ---
 
